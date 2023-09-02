@@ -1,4 +1,4 @@
-# Checkers-program
+# Checkers-program (Capstone Project)
 Digital board game of checkers with playable AI opponents implemented through minimax, and GUI implemented using Pygame.
 
 Programmed in Python 3.10; imported pygame module 
